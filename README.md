@@ -7,6 +7,12 @@ The app sits in the top-menu and shows the value of the selected crypto in eithe
 
 Built with [Electron](http://electron.atom.io), uses the [CryptoCompare API](https://www.cryptocompare.com/api).
 
+
+## Installing via Homebrew Cask
+```sh
+brew cask install bitdock
+```
+
 ## Running
 
 ```sh
